@@ -37,6 +37,6 @@
           }
         ?>
         <br><br>
-        <a href="cinco.php">>> Volver</a>
+        <a href="index.php">>> Volver</a>
       
 </html>
